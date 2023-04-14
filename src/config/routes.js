@@ -1,5 +1,4 @@
 /*  de componentes >a layouts > a  pages >a   routes  */
-
 import { LayoutGeneral } from "../layouts/LayoutGeneral";
 import {Home} from "../pages/Home"
 import {Users} from "../pages/users/Users";

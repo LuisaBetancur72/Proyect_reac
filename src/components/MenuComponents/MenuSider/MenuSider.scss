@@ -1,9 +1,7 @@
 @import "../../../scss/index.scss";
-
 :root{
     --left-menu-width: 200px;
 }
-
 .menu-sider{
     position: fixed;
     transition: transform .3s cubic-bezier(0,52,0,1);
